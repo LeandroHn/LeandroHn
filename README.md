@@ -16,7 +16,7 @@ Estou em transição de carreira para a área de Tecnologia, com foco em
 
 | Projeto | Descrição | Link |
 |---|---|---|
-| 📊 Controle de Chamados (Excel) | Dashboard de chamados com fórmulas, indicadores e gráficos | [ver projeto](link-do-repo) |
+| 📊 Controle de Chamados (Excel) | Dashboard de chamados com fórmulas, indicadores e gráficos | [ver projeto](https://github.com/LeandroHn/controle-chamados-excel) |
 | 🗃️ Análise de Chamados (SQL) | Queries de análise sobre base de chamados simulada | [ver projeto](link-do-repo) |
 | 📋 Kanban de Melhoria de Atendimento | Board público simulando gestão ágil de um time de suporte | [ver projeto](link-do-repo) |
 | 🎫 Central de Chamados (Jira) | Projeto simulado com tickets variados de suporte | [ver projeto](link-do-repo) |
