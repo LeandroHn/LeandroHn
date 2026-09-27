@@ -24,4 +24,4 @@ Estou em transição de carreira para a área de Tecnologia, com foco em
 
 ## 📫 Contato
 
-- [LinkedIn](www.linkedin.com/in/leandro-henrique-a17b60237)
+- [LinkedIn]( www.linkedin.com/in/leandro-henrique-a17b60237 )
