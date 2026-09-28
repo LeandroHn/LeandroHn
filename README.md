@@ -20,7 +20,7 @@ Estou em transição de carreira para a área de Tecnologia, com foco em
 | 🗃️ Análise de Chamados (SQL) | Queries de análise sobre base de chamados simulada | [ver projeto](https://github.com/LeandroHn/sql-analise-chamados) |
 | 📋 Kanban de Melhoria de Atendimento | Board público simulando gestão ágil de um time de suporte | [ver projeto](link-do-repo) |
 | 🎫 Central de Chamados (Jira) | Projeto simulado com tickets variados de suporte | [ver projeto](link-do-repo) |
-| 📖 Base de Conhecimento — Suporte TI | Documentação de solução para 5 problemas técnicos comuns | [ver projeto](link-do-repo) |
+| 📖 Base de Conhecimento — Suporte TI | Documentação de solução para 5 problemas técnicos comuns | [ver projeto](https://github.com/LeandroHn/kb-suporte-ti) |
 
 ## 📫 Contato
 
